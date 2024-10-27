@@ -5,3 +5,17 @@ Desktop/
 ntuser*
 *.ini
 *.log
+AppData/
+Local Settings/
+Application Data/
+Cookies/
+Favorites/
+Links/
+My Documents/
+Recent/
+Saved Games/
+Searches/
+SendTo/
+*.ini
+*.log
+ntuser*
